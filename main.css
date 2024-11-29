@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 30%;
+    height: 300px;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: lightblue;
+    box-shadow: 0 0 10px;
+}
